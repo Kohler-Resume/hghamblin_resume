@@ -19,7 +19,7 @@ Description
 `Expected Graduation in 2022`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- 4.0 Major GPA
+- 3.93 GPA
 
 
 ## Related Experience
